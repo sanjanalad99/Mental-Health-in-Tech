@@ -12,6 +12,8 @@ In this project, we delve deep into a comprehensive dataset gathered from survey
 - **Exploratory Data Analysis:** Dive into the world of data visualization as we craft insightful charts and graphs to visualize trends, patterns, and correlations within the data.
 - **Statistical Insights:** Uncover hidden insights through statistical analysis, including descriptive statistics, hypothesis testing, and more.
 - **Actionable Recommendations:** Based on our findings, we offer actionable recommendations for employers, policymakers, and individuals to promote mental well-being in the tech workplace.
+<img width="563" alt="image" src="https://github.com/sanjanalad99/Mental-Health-in-Tech/assets/133920285/335cf34b-1d8e-49d6-9d5a-74cbfcbbbd4f">
+
 
 ### Tech Stack & Tools 🛠️
 
