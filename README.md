@@ -33,5 +33,8 @@ We extend our gratitude to Kaggle for providing the dataset used in this analysi
 We invite you to join us on this exciting journey of exploration and discovery. Whether you're a data enthusiast, a mental health advocate, or simply curious about the intersection of technology and well-being, there's something for everyone in this project. Let's work together to create a healthier, happier workplace for all!
 
 Happy analyzing! ✨
+
+
+
 ![image](https://github.com/sanjanalad99/Mental-Health-in-Tech/assets/133920285/246dc91d-37f8-481e-8708-d3525e21e75e)
 
